@@ -1,0 +1,2 @@
+E:/project with sattlite/project2/android/app/.cxx/Debug/6f2v4p2g/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/project with sattlite/project2/android/app/.cxx/Debug/6f2v4p2g/armeabi-v7a/CMakeFiles/rebuild_cache.dir
